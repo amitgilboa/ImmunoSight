@@ -1,3 +1,5 @@
+## Running the ImmunoSight pipeline on server ig03
+
 #!/bin/bash
 
 nice -19 python /work/amitk/airrmap/tcr_anchors_cdr3/scripts/simulations_ligo_cdr3.py --server ig03 --path_rep 'repertoire_sim100_50_01'
